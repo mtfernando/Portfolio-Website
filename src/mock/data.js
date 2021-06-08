@@ -49,7 +49,7 @@ export const projectsData = [
     img: 'react.png',
     title: 'Junior Developer',
     info: 'She\'s a Crowd - University Capstone Project',
-    info2: 'External capstone project in cooperate with She\'s a Crowd. As a Junior Developer of the team I was exposed to ReactJS, ChartJS, NodeJS, and ExpressJS during this internship. I developed auxiliary features such as data filters for the visualizations of the project. Git version control was used in this project.',
+    info2: 'External capstone project in cooperation with She\'s a Crowd. As a Junior Developer of the team I was exposed to ReactJS, ChartJS, NodeJS, and ExpressJS during this internship. I developed auxiliary features such as data filters for the visualizations of the project. Git version control was used in this project.',
     url: '',
     repo: '', // if no repo, the button will not show up
   },
